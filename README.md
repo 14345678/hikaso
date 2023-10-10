@@ -1,21 +1,13 @@
 <!DOCTYPE HTML>
-<html lang="ja">
+<html>
     <head>
-        <meta charset="UTF-8">
-        <title>ヒカマニの素材共有したいんです！</title>
-        <link rel="icon" href="./img/mania.jpg">
-        <link rel="stylesheet" href="./css.css">
+        <meta charest="UTF-8">
+        <title>使用できないね。言うまでもない</title>
     </head>
     <body>
-        <div style="text-align: center;">
-            <h1>ヒカマニの素材共有したいんです！</h1>
-            <span>ここはヒカマニの素材共有したいんです!のLINEオープンチャットのホームページだね。いうまでもない</span><p>ここではオプチャの説明やメンバーなどを紹介しまあしょう！</p>
-        </div>
-        君、ここに来てくれたという事はヒカマーだね？有難いなあ歓迎します。よかったら入ってほしいなあそうに決まってる
-        <a href="https://line.me/ti/g2/u7AskC4Er38QiQiUliq6_cgJRpe4PxDTNixn0w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" target="_blank" rel="noopener">オプはこちらから</a>
-        え？語録がわからない？オプで教えてけど予習はしておいた方がいいね、いうまでもない。なので、↓で語録を学んでからきたほうがいいなあそうにきまってる
-        <p style="text-align: center;">
-            <a href="https://w.atwiki.jp/erosquare/pages/11.html" rel="noopener" target="_blank">ヒカマニ語録集</a>
-        </p>
+        <script>
+            window.location.href = 'https://14345678.github.io/hikaso/main.html';
+        </script>
+        <a href="https://14345678.github.io/hikaso/main.html"></a>
     </body>
 </html>
