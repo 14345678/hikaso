@@ -3,6 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <title>ヒカマニの素材共有したいんです！</title>
+        <link rel="icon" href="./img/mania.jpg">
+        <link rel="stylesheet" href="./css.css">
     </head>
     <body>
         <div style="text-align: center;">
