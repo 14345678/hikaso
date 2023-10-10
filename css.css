@@ -15,3 +15,7 @@ a:hover {
 	color: #fff;
 	background: #27acd9;
 }
+.iti {
+    background-image: url(./img/mania.jpg);
+    background-size: contain;
+  }
