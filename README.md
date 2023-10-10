@@ -8,6 +8,6 @@
         <script>
             window.location.href = 'https://14345678.github.io/hikaso/main.html';
         </script>
-        <a href="https://14345678.github.io/hikaso/main.html"></a>
+        <a href="https://14345678.github.io/hikaso/main.html">移動できない場合はここをクリック</a>
     </body>
 </html>
