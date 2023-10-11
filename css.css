@@ -20,3 +20,8 @@ a:hover {
     background-size: contain;
 	color: #fff;
   }
+.ni {
+	background-image: url(https://nicovideo.cdn.nimg.jp/thumbnails/36221859/36221859.51002397.M);
+	background-size: contain;
+	color: #fff;
+}
